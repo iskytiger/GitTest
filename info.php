@@ -15,7 +15,7 @@ function c() {
 
 echo "Start\n";
 
-echo "Middle\n";
+echo "Middle Point\n";
 
 echo "End\n";
 
