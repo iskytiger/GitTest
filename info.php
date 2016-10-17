@@ -13,6 +13,10 @@ function c() {
 
 }
 
+function d() {
+
+}
+
 echo "Start\n";
 
 echo "Middle Point\n";
