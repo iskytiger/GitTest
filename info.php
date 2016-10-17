@@ -21,6 +21,8 @@ echo "Start\n";
 
 echo "Middle Point\n";
 
+echo "Another\n";
+
 echo "End\n";
 
 exit;
