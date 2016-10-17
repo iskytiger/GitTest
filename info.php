@@ -17,6 +17,10 @@ function d() {
 
 }
 
+function e() {
+
+}
+
 echo "Start\n";
 
 echo "Middle Point\n";
